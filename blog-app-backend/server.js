@@ -12,7 +12,7 @@ config();
 const app = exp();
 //enable cors
 app.use(cors({
-  origin:[`http://localhost:5173`,"https://blogapp-daae.onrender.com"],credentials:true
+  origin:[`http://localhost:5173`,"https://blog-app-gamma-livid.vercel.app"],credentials:true
 }))
 //add cookie parser middeleware
 app.use(cookieParser())
