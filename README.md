@@ -176,10 +176,7 @@ POST /api/posts
 
 ##  Author
 
-Your Name  
-GitHub: https://github.com/your-username  
-LinkedIn: https://linkedin.com/in/your-profile  
-Email: your-email@gmail.com  
+
 
 ---
 
